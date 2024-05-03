@@ -83,6 +83,12 @@ h1 {
     background-color: #0056b3;
 }
 
+.price{
+  font-size: medium;
+  font-weight: bold;
+  color: purple
+}
+
 nav {
     background-color: #333;
     color: #fff;
